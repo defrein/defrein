@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=defrein&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defrein&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
