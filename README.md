@@ -17,4 +17,4 @@
 <h3>Most Used Languages</h3>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=defrein&show_icons=true&locale=en&layout=compact" alt="defrein" /></p>
 <h3>Github Stats</h3>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=defrein&show_icons=true&locale=en" alt="defrein" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=defrein&show_icons=true&theme=radical" alt="defrein" /></p>
