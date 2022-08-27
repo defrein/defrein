@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Web Development, Robotics, Computer Vision, and IoT**
 
-- 📝 I regularly write articles on [defcoding.blogspot.com](defcoding.blogspot.com)
-
 - 📫 How to reach me **adnaniwahni@gmail.com**
 
 - ⚡ Fun fact **I am a cool introvert**
