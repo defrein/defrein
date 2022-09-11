@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wahni Adnani (DEF)</h1>
+<h1 align="center">Hi 👋, I'm DEF</h1>
 <h3 align="center">a Front-end Developer</h3>
 
 - 🌱 I’m currently learning **Web Developments, Robotics, Computer Vision, and IoT**
