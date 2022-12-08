@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm DEF</h1>
 <h3 align="center">a Front-end Developer</h3>
 
-- 🌱 I’m currently learning **Web Developments, Robotics, Computer Vision, and IoT** - 📫 How to reach me **adnaniwahni@gmail.com** - ⚡ Fun fact **I am a cool introvert**
+- 🌱 I’m currently learning **Web Developments, Robotics, Computer Vision, and IoT** 
+- 📫 How to reach me **adnaniwahni@gmail.com** 
+- ⚡ Fun fact **I am a cool introvert**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
