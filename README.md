@@ -9,7 +9,7 @@
 <p align="left">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
+<!--     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a> -->
     <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" />
     </a>
@@ -26,8 +26,8 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
 </p>
-<!-- <h3>Most Used Languages</h3>
+<h3>Most Used Languages</h3>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=defrein&theme=radical&layout=compact" /></p>
 <h3>Github Stats</h3>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=defrein&show_icons=true&theme=radical" alt="defrein" /></p> -->
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=defrein&show_icons=true&theme=radical" alt="defrein" /></p>
 
