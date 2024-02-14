@@ -83,12 +83,12 @@
 ###
 
 <div align="center">
-  <img height="200" src="[Sleepy_Time_Tom_-_Tom_sleeping_on_the_window_ledge](https://github.com/defrein/defrein/assets/75670541/543253c5-24a3-4142-9c6f-3f8554fbb49b)"  />
+  <img height="200" src="https://github.com/defrein/defrein/assets/75670541/1c18fece-7101-4ba4-8a98-823685925420"  />
 </div>
 
 ###
 
-<p align="center">That's true, but i also like to read books :D</p>!
+<p align="center">That's true, but i also like to read books :D</p>
 
 
 ###
