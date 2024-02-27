@@ -58,8 +58,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <a href="https://www.linkedin.com/in/wahni-adnani/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
@@ -76,6 +74,7 @@
 
 
 ###
+<br clear="both">
 
 <div align="center">
   <img height="200" src="https://github.com/defrein/defrein/assets/75670541/1c18fece-7101-4ba4-8a98-823685925420"  />
