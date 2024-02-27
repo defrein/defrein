@@ -1,8 +1,8 @@
-<h1 align="center">Greetings</h1>
+<h1 align="center">Oh Hi!</h1>
 
 ###
 
-<p align="left">My name is DEF, and I'm a passionate and enthusiastic person with an obsession in learning about technology. Currently, I'm learning Web Development, Robotics, and Computer Vision. I would love to work with others and share my passion for technology. So let's team up and explore together!🚀</p>
+<p align="left">My name is Wahni Adnani, you can call me DEF, I'm a passionate and enthusiastic person with an obsession in learning about technology. Currently, I'm learning Web Development, Robotics, and Computer Vision. I would love to work with others and share my passion for technology. So let's team up and explore together!🚀</p>
 
 ###
 
@@ -74,21 +74,12 @@
 
 ###
 
-<h3 align="left"></h3>
-
-###
-
-<p align="center">My hobby other than coding:</p>
 
 ###
 
 <div align="center">
   <img height="200" src="https://github.com/defrein/defrein/assets/75670541/1c18fece-7101-4ba4-8a98-823685925420"  />
 </div>
-
-###
-
-<p align="center">That's true, but i also like to read books :D</p>
 
 
 ###
