@@ -77,8 +77,6 @@ Raspberry Pi • Arduino • IoT Systems
 
 ### 📊 Investigation Records
 
-<img src="https://streak-stats.demolab.com?user=defrein&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=defrein&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="280" alt="activity graph"/>
 
 ---
