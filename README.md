@@ -1,6 +1,6 @@
 <div align="center">
 
-# Case File: DEF
+# 🔍 Case File: DEF
 
 <img src="https://i.gifer.com/OnPA.gif" width="500"/>
 
@@ -23,33 +23,13 @@ A calm yet driven investigator of technology, piecing together solutions with pr
 
 ## 🧩 Evidence Board
 
-### **AI & Machine Learning**
-- Natural Language Processing
-- Computer Vision
-- LLM Integration
-- Model Fine-tuning
-
-### **Programming Arsenal**
-```
-Python • Go • PHP • JavaScript • SQL
-```
-
-### **Web & Integration**
-- TALL Stack (Tailwind, Alpine.js, Livewire, Laravel)
-- Python Flask
-- REST APIs
-- Svelte
-- XML/JATS
-
-### **Investigation Tools**
-```
-Git • Linux • CI/CD • MySQL • OpenCV
-```
-
-### **Hardware Lab**
-```
-Raspberry Pi • Arduino • IoT Systems
-```
+| Category | Skills |
+|----------|--------|
+| 🤖 **AI & ML** | NLP • Computer Vision • LLM Integration • Model Fine-tuning |
+| 💻 **Languages** | Python • Go • PHP • JavaScript • SQL |
+| 🌐 **Tech Stack** | TALL Stack • Flask • REST APIs • Svelte • XML/JATS |
+| 🛠️ **Tools** | Git • Linux • CI/CD • MySQL • OpenCV |
+| ⚙️ **Hardware** | Raspberry Pi • Arduino • IoT Systems |
 
 ---
 
