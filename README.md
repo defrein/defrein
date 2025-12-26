@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## 📋 Profile
 
 **Name:** Wahni Adnani (DEF)  
@@ -19,7 +17,6 @@
 
 A calm yet driven investigator of technology, piecing together solutions with precision and passion. Currently unraveling the mysteries of AI, machine learning, and intelligent systems.
 
----
 
 ## 🧩 Evidence Board
 
@@ -31,7 +28,6 @@ A calm yet driven investigator of technology, piecing together solutions with pr
 | 🛠️ **Tools** | Git • Linux • CI/CD • MySQL • OpenCV |
 | ⚙️ **Hardware** | Raspberry Pi • Arduino • IoT Systems |
 
----
 
 ## 🔗 Contact Points
 
@@ -43,25 +39,21 @@ A calm yet driven investigator of technology, piecing together solutions with pr
 
 </div>
 
----
-
 <div align="center">
 
-### 🐱 Case Assistant
+## 🐱 Case Assistant
 
 <img src="https://i.gifer.com/Gjnl.gif" width="400"/>
 
 *Every detective needs a companion*
 
----
 
-### 📊 Investigation Records
+## 📊 Investigation Records
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=defrein&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="280" alt="activity graph"/>
 
----
 
-### ☾⋆⁺₊🎮✩°｡
+## ☾⋆⁺₊🎮✩°｡
 
 <img src="https://i.gifer.com/Vsgy.gif" width="400"/>
 
