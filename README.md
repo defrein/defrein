@@ -1,93 +1,92 @@
-<h1 align="center">Oh Hi!</h1>
+<div align="center">
 
-###
+# Case File: DEF
 
-<p align="left">My name is Wahni Adnani, you can call me DEF, I'm a passionate and enthusiastic person with an obsession in learning about technology. Currently, I'm learning Web Development, Robotics, and Computer Vision. I would love to work with others and share my passion for technology. So let's team up and explore together!🚀</p>
+<img src="https://i.gifer.com/OnPA.gif" width="500"/>
 
-###
+*"One truth prevails... in code."*
 
-<h3 align="left">Tools💻</h3>
-
-###
-
-<p align="left">Web Development</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="30" alt="codeigniter logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="30" alt="jquery logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
+---
 
-<p align="left">Robotics & Computer Vision</p>
+## 📋 Profile
 
-###
+**Name:** Wahni Adnani (DEF)  
+**Type:** INTJ-T  
+**Status:** Solving mysteries in technology  
+**Mission:** Building intelligent systems and exploring the depths of AI
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-</div>
+A calm yet driven investigator of technology, piecing together solutions with precision and passion. Currently unraveling the mysteries of AI, machine learning, and intelligent systems.
 
-###
+---
 
-<h3 align="left">Social Links🌐</h3>
+## 🧩 Evidence Board
 
-###
+### **AI & Machine Learning**
+- Natural Language Processing
+- Computer Vision
+- LLM Integration
+- Model Fine-tuning
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/wahni-adnani/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/defxcode" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="30" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/adnani.wa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="30" alt="instagram logo"  />
-  </a>
-</div>
+### **Programming Arsenal**
+```
+Python • Go • PHP • JavaScript • SQL
+```
 
-###
+### **Web & Integration**
+- TALL Stack (Tailwind, Alpine.js, Livewire, Laravel)
+- Python Flask
+- REST APIs
+- Svelte
+- XML/JATS
 
+### **Investigation Tools**
+```
+Git • Linux • CI/CD • MySQL • OpenCV
+```
 
-###
-<br clear="both">
+### **Hardware Lab**
+```
+Raspberry Pi • Arduino • IoT Systems
+```
+
+---
+
+## 🔗 Contact Points
 
 <div align="center">
-  <img height="200" src="https://github.com/defrein/defrein/assets/75670541/1c18fece-7101-4ba4-8a98-823685925420"  />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahni-adnani/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/defxcode)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adnani.wa/)
+
 </div>
 
-
-###
-
-<br clear="both">
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=defrein&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=defrein&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
-###
+### 🐱 Case Assistant
+
+<img src="https://i.gifer.com/Gjnl.gif" width="400"/>
+
+*Every detective needs a companion*
+
+---
+
+### 📊 Investigation Records
+
+<img src="https://streak-stats.demolab.com?user=defrein&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=defrein&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="280" alt="activity graph"/>
+
+---
+
+### ☾⋆⁺₊🎮✩°｡
+
+<img src="https://i.gifer.com/Vsgy.gif" width="400"/>
+
+*"All work and no play makes Jack a dull boy"*
+
+</div>
