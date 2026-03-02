@@ -1,7 +1,5 @@
 <div align="center">
 
-# 🔍 Case File: DEF
-
 <img src="https://i.gifer.com/OnPA.gif" width="500"/>
 
 *"One truth prevails... in code."*
@@ -14,8 +12,6 @@
 **Type:** INTJ-T  
 **Status:** Solving mysteries in technology  
 **Mission:** Building intelligent systems and exploring the depths of AI
-
-A calm yet driven investigator of technology, piecing together solutions with precision and passion. Currently unraveling the mysteries of AI, machine learning, and intelligent systems.
 
 
 ## 🧩 Evidence Board
@@ -43,7 +39,7 @@ A calm yet driven investigator of technology, piecing together solutions with pr
 
 ## 🐱 Case Assistant
 
-<img src="https://i.gifer.com/Gjnl.gif" width="400"/>
+<img src="https://i.gifer.com/nUq.gif" width="200"/>
 
 *Every detective needs a companion*
 
